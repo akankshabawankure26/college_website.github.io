@@ -1,0 +1,21 @@
+.nav{
+    padding-left: 30px;
+    font-size: 25px;
+    background-color: skyblue;
+    color: black;
+}
+.nav-item:hover{
+    background-color: black;
+    color: #fff;
+}
+footer{
+    height: 600px;
+    background-color: skyblue;
+}
+h2{
+    color: #fff;
+}
+#accordion .cart-header:a{
+    background-color: blue;
+    font-weight: bold;
+}
